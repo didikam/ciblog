@@ -1,7 +1,7 @@
 <?php
 
 	/**
-	 * 
+	 * menambah file
 	 */
 	class Categories extends CI_Controller
 	{
