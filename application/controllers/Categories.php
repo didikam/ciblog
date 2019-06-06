@@ -2,7 +2,7 @@
 
 	/**
 	 * menambah file
-	 * mengubah via console
+	 * mengubah via
 	 */
 	class Categories extends CI_Controller
 	{
